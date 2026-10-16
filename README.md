@@ -24,3 +24,12 @@ Consists of my daily journey wrestling with Problem Solving with C++ book.
 13. When creating a program, the first step should be taken is designing an algorithm.
 14. Two main phases of program design process: algorithm design/problem-solving & implementation.
 15. The problem-solving phase should not be slighted becausea the algorihtm design process becomes much less intricate and less prone to error.
+
+### 1.3 Self-Test Exercises
+
+16. The output on the screen would be: C++ is easy to understand.
+17. `\n` means new line which will add a new line in the output screen.
+18. `cin >> peasPerPod` means it asks for an input for variable peasPerPod (the amount of peas in a pod).
+19. `totalPeas = numberOfPods * peasPerPod` is an executable statement which will calculate total peas based on the number of pods times amount of peas in one pod.
+20. `#include <iostream>` is an include directive for input and output command/statements that is used in a C++ program.
+21. For a. it has a space before the ">"; b. it has a space after the "<"; c. there is nothing wrong, it's the right way to write an include directive.
