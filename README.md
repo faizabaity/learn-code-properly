@@ -27,6 +27,8 @@ Consists of my daily journey wrestling with Problem Solving with C++ book.
 
 ## [10/10/2026 02:54] Day 2 - Page 52-61
 
+## [16/10/2026 15:52] Day 2 - Page 51-61
+
 ### 1.3 Self-Test Exercises
 
 16. The output on the screen would be: C++ is easy to understand.
