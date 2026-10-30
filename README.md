@@ -25,8 +25,6 @@ Consists of my daily journey wrestling with Problem Solving with C++ book.
 14. Two main phases of program design process: algorithm design/problem-solving & implementation.
 15. The problem-solving phase should not be slighted because the algorihtm design process becomes much less intricate and less prone to error. (+ produces a correctly working program faster).
 
-## [10/10/2026 02:54] Day 2 - Page 52-61
-
 ## [16/10/2026 15:52] Day 2 - Page 51-61
 
 ### 1.3 Self-Test Exercises
